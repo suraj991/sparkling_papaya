@@ -5,7 +5,6 @@ Canvas Co-Pilot turns Canvas from a passive course portal into an active academi
 ## Demo
 
 - Demo video: https://youtu.be/w_5ZtJjuY3o
-- Live app: https://canvas-copilot-frontend-595493608856.us-central1.run.app/
 
 ## Problem
 
